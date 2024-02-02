@@ -13,10 +13,7 @@ table{
     margin-top: 40px;
 }
 
-div{
-    align-items: center;
-    align-content: space-between;
-}
+
 .name{
     color: antiquewhite;
     text-align: center;
